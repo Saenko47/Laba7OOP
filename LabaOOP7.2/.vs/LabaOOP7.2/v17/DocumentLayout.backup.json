@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\hang glider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:hang glider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\airbaloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:airbaloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\gendevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:gendevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\wing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:wing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\baloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:baloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\blades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:blades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|c:\\users\\aleks\\source\\repos\\labaoop7.2\\ipart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318AFFBA-7B24-465F-B84B-148A1640E0E4}|LabaOOP7.2.csproj|solutionrelative:ipart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registr.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Registr.cs",
+              "RelativeDocumentMoniker": "Registr.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Registr.cs",
+              "RelativeToolTip": "Registr.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:42:13.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenDevice.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\GenDevice.cs",
+              "RelativeDocumentMoniker": "GenDevice.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\GenDevice.cs",
+              "RelativeToolTip": "GenDevice.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:48:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Device.cs",
+              "RelativeDocumentMoniker": "Device.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Device.cs",
+              "RelativeToolTip": "Device.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:44:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parts.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Parts.cs",
+              "RelativeDocumentMoniker": "Parts.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Parts.cs",
+              "RelativeToolTip": "Parts.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwGwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:52:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Helicopter.cs",
+              "RelativeDocumentMoniker": "Helicopter.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Helicopter.cs",
+              "RelativeToolTip": "Helicopter.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:29:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AirPlane.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\AirPlane.cs",
+              "RelativeDocumentMoniker": "AirPlane.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\AirPlane.cs",
+              "RelativeToolTip": "AirPlane.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:52:01.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wing.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Wing.cs",
+              "RelativeDocumentMoniker": "Wing.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Wing.cs",
+              "RelativeToolTip": "Wing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:36:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:38:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirBaloon.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\AirBaloon.cs",
+              "RelativeDocumentMoniker": "AirBaloon.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\AirBaloon.cs",
+              "RelativeToolTip": "AirBaloon.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:40:01.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hang glider.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\hang glider.cs",
+              "RelativeDocumentMoniker": "hang glider.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\hang glider.cs*",
+              "RelativeToolTip": "hang glider.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:41:30.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Engine.cs",
+              "RelativeDocumentMoniker": "Engine.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Engine.cs",
+              "RelativeToolTip": "Engine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:58:03.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blades.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Blades.cs",
+              "RelativeDocumentMoniker": "Blades.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Blades.cs",
+              "RelativeToolTip": "Blades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:36:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IDevice.cs",
+              "RelativeDocumentMoniker": "IDevice.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IDevice.cs",
+              "RelativeToolTip": "IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:47:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Baloon.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Baloon.cs",
+              "RelativeDocumentMoniker": "Baloon.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\Baloon.cs",
+              "RelativeToolTip": "Baloon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:37:33.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IEngine.cs",
+              "RelativeDocumentMoniker": "IEngine.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IEngine.cs",
+              "RelativeToolTip": "IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:45:39.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPart.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IPart.cs",
+              "RelativeDocumentMoniker": "IPart.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP7.2\\IPart.cs",
+              "RelativeToolTip": "IPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:48:50.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

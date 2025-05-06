@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.AssemblyInfo.cs
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.sourcelink.json
+C:\Users\aleks\source\repos\LabaOOP7.2\bin\Debug\net8.0\LabaOOP7.2.exe
+C:\Users\aleks\source\repos\LabaOOP7.2\bin\Debug\net8.0\LabaOOP7.2.deps.json
+C:\Users\aleks\source\repos\LabaOOP7.2\bin\Debug\net8.0\LabaOOP7.2.runtimeconfig.json
+C:\Users\aleks\source\repos\LabaOOP7.2\bin\Debug\net8.0\LabaOOP7.2.dll
+C:\Users\aleks\source\repos\LabaOOP7.2\bin\Debug\net8.0\LabaOOP7.2.pdb
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.dll
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\refint\LabaOOP7.2.dll
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.pdb
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\LabaOOP7.2.genruntimeconfig.cache
+C:\Users\aleks\source\repos\LabaOOP7.2\obj\Debug\net8.0\ref\LabaOOP7.2.dll
