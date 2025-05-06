@@ -1,0 +1,35 @@
+2
+Space Explorer
+1950-12-22
+2421
+4
+Андрей Смирнов Date of birth:26.06.2000 0:00:00
+History of the Internet
+0,3.
+Максим Петров Date of birth:11.12.1962 0:00:00
+The future of quantum computing
+1,0.
+Артем Егоров Date of birth:21.10.1966 0:00:00
+Cybersecurity in the Modern World
+0,1.
+Иван Сидоров Date of birth:26.12.1966 0:00:00
+Social Media and Mental Health
+2,3.
+||||
+Digital Trends
+2007-12-28
+1325
+4
+Иван Соловьёв Date of birth:06.03.1985 0:00:00
+Social Media and Mental Health
+2,4.
+Андрей Николаев Date of birth:02.02.2021 0:00:00
+The Science of Sleep
+2,1.
+Илья Кузнецов Date of birth:09.03.1978 0:00:00
+The future of quantum computing
+1,1.
+Андрей Павлов Date of birth:27.10.2022 0:00:00
+Climate change and global impact
+0,1.
+||||

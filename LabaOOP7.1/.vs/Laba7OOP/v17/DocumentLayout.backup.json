@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|c:\\users\\aleks\\source\\repos\\laba7oop\\ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CC7D2-C1B1-402D-8D1D-797CD7358502}|Laba7OOP.csproj|solutionrelative:ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Task.cs*",
+              "RelativeToolTip": "Task.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1gAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:23:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:49:22.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileContainer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\IFileContainer.cs",
+              "RelativeDocumentMoniker": "IFileContainer.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\IFileContainer.cs",
+              "RelativeToolTip": "IFileContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:38:17.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContainer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\IContainer.cs",
+              "RelativeDocumentMoniker": "IContainer.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\IContainer.cs",
+              "RelativeToolTip": "IContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:52:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Article.cs",
+              "RelativeDocumentMoniker": "Article.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Article.cs",
+              "RelativeToolTip": "Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:29:28.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwFEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:28:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Laba7OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:25:12.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

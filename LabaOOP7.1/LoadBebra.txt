@@ -1,0 +1,16 @@
+2
+National geographic
+2024-03-01
+50000
+2
+John Doe:Smith 1980-05-15 Science of Nature 9.5
+Jane Roe:Doe 1990-11-22 Animal Kingdom 8.7
+////
+Tech Today
+2023-12-20
+20000
+1
+Alan Turing:Mathematician 1912-06-23 Computing Legacy 10.0
+////
+
+
